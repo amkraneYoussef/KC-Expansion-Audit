@@ -146,7 +146,7 @@ The manuscript is currently unpublished. Please do not cite it as an accepted jo
 ```bibtex
 @unpublished{amkrane_kc_expansion,
   title  = {Knowledge component expansion in knowledge tracing under aligned training and evaluation},
-  author = {Amkrane, Youssef and Amounas, Fatima and Azrour, Mourade},
+  author = {Amkrane, Youssef and Amounas, Fatima and Azrour, Mourade and Bendaoud, Salma},
   year   = {2026}
 }
 ```
